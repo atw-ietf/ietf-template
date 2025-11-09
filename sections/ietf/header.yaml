@@ -1,0 +1,27 @@
+coding: utf-8
+
+title: Template
+abbrev: template
+docname: draft-atw-TBD-template-00
+category: std
+stream: IETF
+
+ipr: trust200902
+area: Internet
+wg: drip Working Group
+kw: Internet-Draft
+cat: std
+
+stand_alone: yes
+pi: [toc, sortrefs, symrefs, comments]
+
+author:
+-   ins: A. Wiethuechter
+    name: Adam Wiethuechter
+    org: AX Enterprize, LLC
+    street: 4947 Commercial Drive
+    city: Yorkville
+    region: NY
+    code: 13495
+    country: USA
+    email: adam.wiethuechter@axenterprize.com

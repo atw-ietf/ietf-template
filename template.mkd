@@ -1,0 +1,27 @@
+---
+
+{::include sections/ietf/header.yaml}
+
+{::include sections/ietf/normative.yaml}
+
+{::include sections/ietf/informative.yaml}
+
+--- abstract
+
+TBD
+
+--- middle
+
+{::include-nested sections/intro.mkd}
+
+{::include-nested sections/ietf/terms.mkd} 
+
+
+
+{::include-nested sections/ietf/iana.mkd}
+
+{::include-nested sections/ietf/security.mkd}
+
+{::include-nested sections/ietf/privacy.mkd}
+
+--- back
