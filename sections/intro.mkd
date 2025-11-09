@@ -11,7 +11,3 @@ TBD
 ## Scope
 
 TBD
-
-### Targeted DRIP Requirements
-
-The following requirements of {{RFC9153}} are satisfied when following this document: TBD.
